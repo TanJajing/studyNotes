@@ -1,0 +1,13 @@
+{
+  "description": "学习计划及时间规划",
+  "setting": {
+    "urlCheck": true,
+    "es6": false,
+    "postcss": false,
+    "minified": false
+  },
+  "compileType": "miniprogram",
+  "appid": "wxd6dab8296c6a0741",
+  "projectname": "studynotes",
+  "miniprogramRoot": "./dist"
+}
